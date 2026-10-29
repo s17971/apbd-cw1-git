@@ -1,0 +1,14 @@
+# Wyniki kompilacji
+bin/
+obj/
+
+# Ustawienia IDE i edytorów
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
